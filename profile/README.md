@@ -5,7 +5,7 @@ or use the project as a starting point for something new,
 you are encouraged to do so. However, the original project is
 closed to external contributions.
 	
-The release year for the first version is still being decided. 
+The release date(year) for the first version is still being decided. 
 Any technical issue experienced with the initial release will 
 be fixed in future updates.
 
