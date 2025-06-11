@@ -14,3 +14,6 @@ make the source code openly available under the BSD License.
 
 Feedback is accepted on functionality, performance, and other issues, 
 but not on coding style or best practices.
+
+While we acknowledge the potential benefits and influence of AI and ML,
+we do not intend to incorporate them into this project moving forward.
