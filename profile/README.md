@@ -1,9 +1,12 @@
-The Lythscript community is decentralized, giving you the freedom to branch out.
+The Lythscript community is decentralized, giving you the freedom to branch out. 
+We are more interested in the outcome of the project than the personalities involved.
+The original author's name is only included for copyright purposes.
+
 You are welcome to modify existing projects to fit your needs.
 Whether you want to add new features, change the design, 
 or use the project as a starting point for something new, 
 you are encouraged to do so. However, the original project is
-closed to external contributions.
+closed to external contributions. 
 	
 The release date(year) for the first version is still being decided. 
 Any technical issue experienced with the initial release will 
