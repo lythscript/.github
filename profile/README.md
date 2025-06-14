@@ -13,7 +13,7 @@ changes in scope and meaning as it evolves. The release date(year) for the first
 Any technical issue experienced with the initial release will 
 be fixed in future updates.
 
-Once our project reaches a milestone of 144 users, we plan to 
+Once our project reaches a milestone of 14 users, we plan to 
 make the source code openly available under the permissive BSD 
 2-clause License.
 
