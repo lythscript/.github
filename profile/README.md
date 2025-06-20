@@ -9,8 +9,9 @@ you are encouraged to do so. However, the original project is
 not open to external code contributions via pull requests.
 
 Lythscript is a long-term project, and it will likely undergo significant 
-changes in scope and meaning as it evolves. The release date(year) for the first version is still being decided. 
-Any technical issue experienced with the initial release will 
+changes in scope and meaning as it evolves. We will prioritize practicality and ease
+of use over novel approaches when considering new features. The release date(year) for 
+the first version is still being decided. Any technical issue experienced with the initial release will 
 be fixed in future updates.
 
 Once our project reaches a milestone of 14 users, we plan to 
