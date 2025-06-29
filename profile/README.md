@@ -19,7 +19,7 @@ Once our project reaches a milestone of 2 users, we plan to
 make the source code openly available under the permissive BSD 
 2-clause License.
 
-Keep in mind this is a personal project, not a professional or academic endeavor,so
+Keep in mind this is a personal project, not a professional or academic endeavor, so
 we're not focused on strict coding standards or best practices. Feedback is 
 accepted on functionality, performance, and other issues.
 
