@@ -17,7 +17,8 @@ be fixed in future updates.
 
 Once our project reaches a milestone of 2 users, we plan to 
 make the source code openly available under the permissive BSD 
-2-clause License.
+2-clause License. This license covers the original source code 
+and executables, but anything you make from it belongs to you.
 
 **Keep in mind this is a personal project, not a professional or academic endeavor**, so
 we're not focused on strict coding standards or best practices. Feedback is 
